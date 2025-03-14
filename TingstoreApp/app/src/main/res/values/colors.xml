@@ -8,4 +8,13 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="facebook_blue">#4267B2</color>
+    <color name="yellow_200">#F1EAB6</color>
+    <color name="red_200">#F44336</color>
+
+    <color name="xanh">#3F51B5</color>
+    <color name="cam">#FF9800</color>
+    <color name="lacay">#4CAF50</color>
+    <color name="edit_text_background_color">#FFFFFF</color>
+    <color name="edit_text_border_color">#CCCCCC</color>
+    <color name="grey">#B4AFAF</color>
 </resources>

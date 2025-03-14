@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Nền trong suốt -->
+    <solid android:color="@android:color/transparent"/>
+
+    <!-- Kích thước -->
+    <size android:width="40dp" android:height="40dp"/>
+
+    <!-- Bo tròn góc -->
+    <corners android:radius="50dp"/>
+
+    <!-- Viền màu đen, dày 2dp -->
+    <stroke android:width="2dp" android:color="@android:color/black"/>
+</shape>

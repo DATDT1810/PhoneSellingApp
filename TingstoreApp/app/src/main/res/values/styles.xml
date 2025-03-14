@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/xanh</item>
+        <item name="colorPrimaryDark">@color/cam</item>
+        <item name="colorAccent">@color/lacay</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item
+            name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item
+            name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!-- Custom styles for buttons -->
+    <style name="IconButton">
+        <item
+            name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+    <!-- Custom styles for EditText -->
+    <style name="CustomEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">8dp</item>
+        <item
+            name="android:background">@drawable/edit_text_background</item>
+    </style>
+</resources>
