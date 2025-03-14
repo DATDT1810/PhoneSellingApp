@@ -22,4 +22,11 @@
         android:name="fpt.edu.vn.tingstoreapp.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_person"
+        android:name="fpt.edu.vn.tingstoreapp.ui.profile.AccountDetailsFragment"
+        android:label="fragment_account_details"
+        tools:layout="@layout/fragment_account_details" />
+
+
 </navigation>
